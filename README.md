@@ -1,1 +1,1 @@
-# Random color palette generator
+# Random Color Palette Generator
